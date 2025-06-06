@@ -1,7 +1,5 @@
 # Thamindu Sandeepa
 
-A soul of 1s, 0s & infinite hues 🤓
-
 - 👀 I’m interested in Software Engineering,UI/UX
 - 🎓 BSc (Hons) Software Engineering
 
