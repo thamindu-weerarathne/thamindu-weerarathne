@@ -1,4 +1,4 @@
-# MasterHead
+# Thamindu Sandeepa
 
 A soul of 1s, 0s & infinite hues 🤓
 
