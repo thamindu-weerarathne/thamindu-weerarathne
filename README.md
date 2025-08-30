@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://github.com/thamindu-weerarathne/thamindu-weerarathne/blob/f30b538327dcbd240e391b1468849193cba02771/snake.yml)" alt="Snake animation" />
 
 
